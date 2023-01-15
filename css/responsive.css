@@ -57,4 +57,7 @@
     .sponser-items-container{
         flex-wrap: wrap;
     }
+    .previous-work-images-container{
+        grid-template-columns: repeat(1,1fr);
+    }
 }
